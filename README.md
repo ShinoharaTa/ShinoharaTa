@@ -8,7 +8,7 @@ Github Name: ShinoharaTa
 # SNS Account
 
 - X (Twitter): https://twitter.com/SHINOHARATTT
-- Nostr: https://nostx.io/npub1l60d6h2uvdwa9yq0r7r2suhgrnsadcst6nsx2j03xwhxhu2cjyascejxe5
+- Nostr: https://nostx.io/shino3.net
 - Bluesky: https://bsky.app/profile/shino3.net
 - Email: ask...
 
