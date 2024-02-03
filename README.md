@@ -22,7 +22,7 @@ WEB系、PHP(Laravel)、JS/TS、Svelte、Vue などが得意です。
 - 1991/12/01: 誕生
 - 2012/04/01: 高見沢サイバネティックス入社
 - 2019/01/01: SpiriteK inc. 入社
-- 2023/11/01: GROOVE GEAR 入社
+- 2023/11/01: Sun terras 入社
 
 # 好きなもの
 
