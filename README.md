@@ -45,7 +45,7 @@ WEB系、PHP(Laravel)、JS/TS、Svelte、Vue などが得意です。
 
 ※まとめています
 
-## 運営協力
+## 活動コミュニティ
 
-- 四谷ラボ
-- nostr-jp
+- [四谷ラボ](https://github.com/428lab)
+- [nostr-jp](https://github.com/nostr-jp)
