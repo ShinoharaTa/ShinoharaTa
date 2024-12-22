@@ -12,6 +12,11 @@ Github Name: ShinoharaTa
 - Bluesky: https://bsky.app/profile/shino3.net
 - Email: ask...
 
+# Donation
+
+- Ko-fi: https://ko-fi.com/shino3
+- Satoshi: shino3@walletofsatoshi.com
+
 # Work
 
 ソフトウェアエンジニアをしています。  
