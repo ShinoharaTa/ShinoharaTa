@@ -5,7 +5,7 @@ Github Name: ShinoharaTa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoharaTa&hide=html&theme=vue-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShinoharaTa&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/SHINOHARATTT)](https://twitter.com/SHINOHARATTT)
 
