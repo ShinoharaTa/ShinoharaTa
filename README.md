@@ -2,9 +2,11 @@
 
 Github Name: ShinoharaTa
 ![ShinoharaTa's github stats](https://github-readme-stats.vercel.app/api?username=ShinoharaTa&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoharaTa&hide=html&theme=vue-dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![My Twitter Followers](https://badgen.net/twitter/follow/SHINOHARATTT)](https://twitter.com/SHINOHARATTT)
 
 # SNS Account
