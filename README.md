@@ -1,9 +1,11 @@
 # Shino3 (しのさん)
 
 Github Name: ShinoharaTa
+![ShinoharaTa's github stats](https://github-readme-stats.vercel.app/api?username=ShinoharaTa&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoharaTa&hide=html&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoharaTa&hide=html)
-![ShinoharaTa's github stats](https://github-readme-stats.vercel.app/api?username=ShinoharaTa&show_icons=true&count_private=true&line_height=40)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Twitter Followers](https://badgen.net/twitter/follow/SHINOHARATTT)](https://twitter.com/SHINOHARATTT)
 
 # SNS Account
 
@@ -33,7 +35,7 @@ WEB系、PHP(Laravel)、JS/TS、Svelte、Vue などが得意です。
 
 - 車が好きです。競技をしています。
 - 寿司が好きです。サーモンが好きです。寿司じゃなくてもサーモンが好きです。
-- 推しのお天気お姉さんは、檜山沙耶さんです
+- 推しのお天気お姉さんは、檜山沙耶さんです。今はフリーアナウンサーになりました。
 
 # 最近の活動
 
